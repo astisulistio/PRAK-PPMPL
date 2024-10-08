@@ -1,0 +1,17 @@
+{
+  "name": "ppmpl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+  }
+}
